@@ -5,3 +5,8 @@
 // Cần thay thế 0 ở vị trí index = 7 ta có 
 // { 0, 0, 1, 0, 1, 1, 1, 1, 1, 1 } 
 // => có chuổi 6 phần tử 1 liên tiếp.
+
+function FindElementZero(arr: number[]){
+    let MaxCount = 0;
+    
+}
